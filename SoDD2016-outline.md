@@ -53,6 +53,7 @@ Charts and discussions about the number of signed domains at the second-level.  
 * [Rick Lamb's site](http://rick.eng.br/dnssecstat/)
 * [ntldstats.com](https://ntldstats.com/dnssec) - for newgTLDs
 * [NIST stats](https://fedv6-deployment.antd.nist.gov/) - for .gov
+* Data from SURFnet (Roland) from their research.
 * Other sites found on [http://www.internetsociety.org/deploy360/dnssec/statistics/](http://www.internetsociety.org/deploy360/dnssec/statistics/)
 
 The point here is to paint a picture of where we are at right now to the best of our understanding.
