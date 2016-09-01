@@ -58,6 +58,12 @@ Charts and discussions about the number of signed domains at the second-level.  
 
 The point here is to paint a picture of where we are at right now to the best of our understanding.
 
+### Algorithms, key sizes, etc.
+
+Info about the algorithms used in signing, key sizes, etc.  Data sources:
+
+* Ed Lewis' presentations and research?
+
 ## State of DANE Deployment
 
 Discussion and charts about DANE deployment. Potential topics include:
@@ -67,6 +73,10 @@ Discussion and charts about DANE deployment. Potential topics include:
 * Number of XMPP servers publishing TLSA records
 
 Potential sidebar story here about the case study of DANE usage by mail servers within Germany and the German gov't recommendation.
+
+## Challenges to Deployment
+
+Discussion of some of the challenges we've identified that slow down deployment.
 
 ## Conclusion
 
