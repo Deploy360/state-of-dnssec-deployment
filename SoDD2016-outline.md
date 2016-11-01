@@ -64,6 +64,8 @@ Info about the algorithms used in signing, key sizes, etc.  Data sources:
 
 * Ed Lewis' presentations and research?
 
+(Should ECDSA case study go here?)
+
 ## State of DANE Deployment
 
 Discussion and charts about DANE deployment. Potential topics include:
@@ -74,9 +76,35 @@ Discussion and charts about DANE deployment. Potential topics include:
 
 Potential sidebar story here about the case study of DANE usage by mail servers within Germany and the German gov't recommendation.
 
+## Root KSK Rollover
+
+Discussion of the Root KSK Rollover happening over the next year.
+
+* https://www.icann.org/resources/pages/ksk-rollover
+
 ## Challenges to Deployment
 
 Discussion of some of the challenges we've identified that slow down deployment.
+
+* 2012 (_some_ things have changed) - http://www.internetsociety.org/deploy360/resources/whitepaper-challenges-and-opportunities-in-deploying-dnssec/
+
+Challenges with changing crypto algorithms
+
+* https://datatracker.ietf.org/doc/draft-york-dnsop-deploying-dnssec-crypto-algs/
+* http://www.slideshare.net/Deploy360/challenges-to-deploying-new-dnssec-cryptographic-algorithms
+
+#### Case study - ECDSA rollout
+
+* CloudFlare experience
+    * https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet/
+    * https://blog.cloudflare.com/introducing-universal-dnssec/
+    * https://www.cloudflare.com/dns/dnssec/ecdsa-and-dnssec/
+    * https://blog.cloudflare.com/dnssec-complexities-and-considerations/
+    * https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/
+    * https://blog.cloudflare.com/updating-the-dns-registration-model-to-keep-pace-with-todays-internet/
+    
+* Geoff Huston's latest stats about ECDSA availability
+
 
 ## Conclusion
 
